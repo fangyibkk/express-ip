@@ -1,10 +1,11 @@
 # How to run
+After clone, setup by `yarn` or `npm install` then start the project by
 ```
-// before all yarn or npm install
 node app.js
 ```
 
 # How to deploy
+First build your image with `docker`
 ```
 docker build . -t <choose_your_build_name>
 ```
