@@ -1,5 +1,6 @@
 # How to run
 ```
+// before all yarn or npm install
 node app.js
 ```
 
